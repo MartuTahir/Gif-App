@@ -145,10 +145,10 @@ h3 {
 
 @media (width < 768px) {
     .card {
-        width: 40%;
+        width: 80%;
     }
     .card p{
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
     h3{
         font-size: 1.8rem;
